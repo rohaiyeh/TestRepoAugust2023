@@ -7,6 +7,6 @@ Second line
 ## Third commit
 Third line
 
-### Forth Lie
+### Forth Line
 
 Forth line
