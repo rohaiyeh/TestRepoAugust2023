@@ -6,5 +6,3 @@ Second line
 
 ## Third commit
 Third line
-
-
