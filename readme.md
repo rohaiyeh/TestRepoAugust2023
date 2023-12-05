@@ -35,5 +35,7 @@ Contradiction line.
 Line has contradiction with main.
 (contradiction line locally)
 
-#main origin
 
+=======
+#main locally
+>>>>>>> e981e26 (main locally)
