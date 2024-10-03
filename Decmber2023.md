@@ -7,3 +7,6 @@ Hi learn, practice, and  master it.
 Stay positive.
 
 # Oct 3rd changes
+# changes on git hub for testing conflict. 
+1- added in Github
+
