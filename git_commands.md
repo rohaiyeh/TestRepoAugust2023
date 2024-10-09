@@ -15,3 +15,6 @@
 - git push --tags --> pushes all the tags to github
 
 
+mess in git hub remote
+
+
