@@ -1,6 +1,10 @@
 # Some Github Lessons
 
 # Oct 8th Rebase
+- git checkout master (locally) 
+- git pull 
+- git  checkout aures-integration 
+- git rebase master 
 
 # Tag
 - Oct 09 tag a branch
