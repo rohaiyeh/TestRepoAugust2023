@@ -7,8 +7,7 @@
 - git rebase master 
 
 # Tag
-- Oct 09 tag a branch
-- checkout branch
+- checkout the branch you want to tag 
 - git tag -a <tag-name> -m "tag message" --> create a tag
 -git push origin <tag-name> --> to push tag remote
 - git push origin -d <tag-name>  --> to delete remote tag
