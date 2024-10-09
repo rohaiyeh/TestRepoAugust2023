@@ -1,13 +1,8 @@
-Sep 2024
-# this is the start of 2024
-Hi learn, practice, and  master it. 
-Stay positive.
-
-# Oct 3rd changes
-# changes on git hub for testing conflict. 
-1- added in Github
+# Some Github Lessons
 
 # Oct 8th Rebase
+
+# Tag
 - Oct 09 tag a branch
 - checkout branch
 - git tag -a <tag-name> -m "tag message" --> create a tag
