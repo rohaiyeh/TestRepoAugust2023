@@ -4,8 +4,9 @@
 - git checkout master (locally) 
 - git pull 
 - git  checkout aures-integration 
+- check fo confict oct-15
 - git rebase master 
-
+- second xxxxxxx test
 # Tag
 - checkout the branch you want to tag 
 - git tag -a <tag-name> -m "tag message" --> create a tag
@@ -18,5 +19,7 @@
 mess in git hub remote
 - added in github
 - xxxxxxxxxxxxxx
+
+#git merge oct-15
 
 
